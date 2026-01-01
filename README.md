@@ -64,10 +64,6 @@ The model is evaluated using:
 
 ---
 
-## 🌐 Live Demo  
-👉 *(Once deployed on Streamlit/Heroku, paste your link here)*  
-
----
 
 ## 📌 Future Improvements  
 - Hyperparameter tuning (Grid/Random Search)  
